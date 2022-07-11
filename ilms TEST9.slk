@@ -1,0 +1,365 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$(0-2]\ #,##0.00_);;[Red]\([$(0-2]\ #,##0.00\)
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;FCalibri;M220;L9
+P;ECalibri;M220;L9
+P;ECalibri Light;M360;L55
+P;ECalibri;M300;SB;L55
+P;ECalibri;M260;SB;L55
+P;ECalibri;M220;SB;L55
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ESegoe UI;M200;L9
+P;ETimes New Roman;M240;L9
+P;ETimes New Roman;M240;SB;L9
+P;ECalibri;M500;SB;L57
+P;ECambria;M260;L57
+P;ETimes New Roman;M280;SB;L9
+P;ETahoma;M260;SB;L9
+P;ETahoma;M360;SB;L57
+P;ECalibri;M200;L9
+P;ECambria;M240;SB;L10
+P;ECambria;M240;L9
+P;ECalibri;M280;SB;L9
+P;ECalibri;M240;L9
+P;ECalibri;M240;L9
+P;ECalibri;M240;SI;L9
+P;ECambria;M280;SB;L63
+P;ECambria;M280;SB
+P;ECalibri;M240;SB;L9
+P;ECalibri;M220;L9
+P;ECalibri;M220;SU;L31
+P;ECalibri;M220;SU;L26
+F;P0;DG0G8;M300
+B;Y80;X12;D1 8 79 11
+O;L;D;V0;K47;G100 0.001
+F;M645;R2
+F;M330;R3
+F;M375;R4
+F;M375;R5
+F;M375;R6
+F;M330;R7
+F;M375;R8
+F;M375;R9
+F;M375;R10
+F;M375;R11
+F;M375;R12
+F;M450;R13
+F;M315;R14
+F;M315;R15
+F;M315;R16
+F;M315;R17
+F;M315;R18
+F;M315;R19
+F;M315;R20
+F;M315;R21
+F;M315;R22
+F;M315;R23
+F;M315;R24
+F;M315;R25
+F;M315;R26
+F;M315;R27
+F;M315;R28
+F;M315;R29
+F;M330;R30
+F;M960;R31
+F;M1275;R32
+F;M315;R33
+F;M315;R34
+F;M315;R35
+F;M315;R36
+F;M315;R37
+F;M315;R38
+F;M315;R39
+F;M315;R40
+F;M315;R41
+F;M315;R42
+F;M315;R43
+F;M375;R44
+F;M8190;R45
+F;M315;R46
+F;M315;R47
+F;M315;R48
+F;M360;R49
+F;M315;R50
+F;M315;R51
+F;M315;R52
+F;M315;R53
+F;M360;R55
+F;M315;R56
+F;M315;R57
+F;M315;R58
+F;M315;R59
+F;M330;R60
+F;M645;R61
+F;M1275;R62
+F;M315;R63
+F;M315;R64
+F;M315;R65
+F;M315;R66
+F;M315;R67
+F;M315;R68
+F;M315;R69
+F;M315;R70
+F;M3600;R73
+F;M1800;R74
+F;M2400;R75
+F;M2700;R76
+F;M1800;R78
+F;M900;R79
+F;P0;FG0C;SDM25;Y2;X9
+C;K"INFOSYS"
+F;P0;FG0C;SM26;Y3
+C;K"Quality System Documentation"
+F;P0;FG0C;SDM27;Y4
+F;P0;FG0R;SDM27;Y5
+F;P0;FG0C;SDM27;Y6
+F;P0;FG0C;SDM28;Y7
+C;K"Information Security Group"
+F;P0;FG0C;SDM27;Y8
+F;P0;FG0C;SDM27;Y9
+F;P0;FG0C;SDM27;Y10
+F;P0;FG0C;SDM27;Y11
+F;P0;FG0C;SDM27;Y12
+F;P0;FG0C;SDM29;Y13
+C;K"ILMS Test Document"
+F;P0;FG0C;SDM24;Y14
+F;P0;FG0C;SDM24;Y15
+F;P0;FG0C;SDM24;Y16
+F;P0;FG0C;SDM24;Y17
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y18;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y19;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y20;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y21;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y22;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y23;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y24;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y25;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y26;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y27;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y28;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM24;Y29;X9
+F;X10
+F;X11
+F;X12
+F;SDM24;Y30;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDLRTSM31;Y31;X9
+C;K"Document Name"
+F;P0;FG0C;SDTSM31;X10
+C;K"Date"
+F;P0;FG0C;SDLRTSM31;X11
+C;K"Authorized By"
+F;P0;FG0C;SDRTSM31;X12
+C;K"Version"
+F;P0;FG0C;SLRTBM32;Y32;X9
+C;K"ILMS Test Document"
+F;P19;FG0C;STBM32;X10
+C;K42492
+F;P0;FG0C;SLRTBM32;X11
+F;P0;FG0C;SRTBM32;X12
+F;SDM24;Y33;X9
+F;SDM24;Y34
+F;SDM24;Y35
+F;SDM24;Y36
+F;P0;FG0C;SDM24;Y37
+F;P0;FG0C;SDM24;Y38
+F;P0;FG0C;SDM24;Y39
+F;P0;FG0C;SDM24;Y40
+F;P0;FG0C;SDM24;Y41
+F;P0;FG0C;SDM24;Y42
+F;P0;FG0C;SDM24;Y43
+F;P0;FG0C;SDM33;Y44
+C;K"COPYRIGHT NOTICE"
+F;P0;FG0G;SM34;Y45
+C;K"This document is the property of Infosys Limited, Bangalore. This manual is not to be loaned to anyone, within or outside the organization. This is not for general distribution & is meant for use only by the person it is specifically issued to. Copying or"
+F;SM23;Y46
+F;SM34;Y47
+C;K"Infosys Limited"
+F;SM34;Y48
+C;K"Hosur Road, 44"
+F;SM34;Y49
+C;K"Electronic City, 3rd Cross"
+F;X10
+F;X11
+F;X12
+F;SM34;Y50;X9
+C;K"Bangalore 560 100 "
+F;X10
+F;X11
+F;X12
+F;SM34;Y51;X9
+C;K"India."
+F;X10
+F;X11
+F;X12
+F;SM34;Y52;X9
+C;K"Telephone: (91) (80)28520 261-270"
+F;X10
+F;X11
+F;X12
+F;SM34;Y53;X9
+C;K"Fax: (91) (80) 28520 362"
+F;X10
+F;X11
+F;X12
+F;SM41;Y54;X9
+C;K"Website: http://www.infosys.com "
+F;P0;FG0C;SDM38;Y55
+F;X10
+F;X11
+F;X12
+F;SM23;Y56;X9
+F;X10
+F;X11
+F;X12
+F;SM23;Y57;X9
+F;X10
+F;X11
+F;X12
+F;SM23;Y58;X9
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM39;Y59;X9
+C;K"Revision List"
+F;X10
+F;X11
+F;X12
+F;P0;FG0C;SDM39;Y60;X9
+F;X10
+F;X11
+F;X12
+F;SDLRTSM31;Y61;X9
+C;K"Ver. No."
+F;SDTSM31;X10
+C;K"Date"
+F;SDLRTSM31;X11
+C;K"Author"
+F;SDRTSM31;X12
+C;K"Description "
+F;SLRTBM32;Y62;X9
+F;P19;FG0G;STBM32;X10
+C;K42492
+F;SLRTBM32;X11
+F;SRTBM32;X12
+C;K"ILMS Test Document"
+F;SM23;Y63;X9
+F;X10
+F;X11
+F;X12
+F;SM23;Y64;X9
+F;X10
+F;X11
+F;X12
+F;SM23;Y65;X9
+F;SM23;Y66
+F;SM23;Y67
+F;SM23;Y68
+F;SM23;Y69
+F;SM23;Y70
+F;P0;FG0G;SM40;Y71
+F;P0;FG0G;SM40;Y73
+C;K"Infosys Confidential document which is internal to Infosys and restricted."
+F;P0;FG0G;SM40;Y74
+C;K"Please do not distribute this document."
+F;P0;FG0G;SM40;Y75
+C;K"This contains Infosys Revenue and assets trademark."
+F;P0;FG0G;SM40;Y76
+C;K"Infosys proprietary document and not for general distribution"
+F;P0;FG0G;SM40;Y77
+F;P0;FG0G;SM40;Y78
+C;K"Infosys do not distribute internal use only"
+F;P0;FG0G;SM40;Y79
+C;K"Infosys Revenue Assets"
+F;P0;FG0G;SM40;Y80
+E
